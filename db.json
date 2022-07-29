@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "name": "sony",
+      "address": "benglure",
+      "email": "sony@gmail.com",
+      "contect": "88899990000",
+      "id": 1
+    },
+    {
+      "name": "boss",
+      "email": "boss@gmail.com",
+      "address": "badami",
+      "contect": "234567",
+      "id": 2
+    },
+    {
+      "name": "About",
+      "email": "shri@gmail.com",
+      "contact": "",
+      "address": "Banglore",
+      "contect": "12345678",
+      "id": 4
+    }
+  ]
+}
